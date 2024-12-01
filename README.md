@@ -1582,7 +1582,7 @@ Reduce unnecessary blank lines and maintain a compact code size. By reducing unn
 - Generally, do not use more than two consecutive blank lines in a row.
 - Do not put newlines in the beginning or end of code blocks with curly braces.
 
-**Valid example:**
+**Invalid example:**
 ```kotlin
 fun baz() {
 
